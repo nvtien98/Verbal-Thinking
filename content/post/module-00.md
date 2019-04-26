@@ -1,9 +1,9 @@
 ---
-title: Đi tìm lẽ sống
-date: "2019-04-26"
-draft: true
-published: true
+title: "Đi tìm lẽ sống"
+date: 2019-04-26
+draft: false
 ---
+
 
 <img src="/img/di-tim.jpg" width="100%" title="Đi Tìm Lẽ Sống - Những giá trị không phai nhạt theo thời gian"/>
 
